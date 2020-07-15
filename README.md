@@ -1,5 +1,16 @@
-### Hi there 👋
+### 😊我是谁？
+  Web全栈开发者，曾是一名远程工作者。并且长期抵制996，目前生活在南京。
 
+### 👻我在做哪些事情？
+  目前有全职工作，还在做一些与自媒体相关的工具的side project。同时也在各个视频平台传播一些编程科普的视频内容。
+
+### ⚡我的标签
+Nodejs, PHP, Python, Puppeteer, Vue, Laravel, Scrapy...
+
+### 🔗相关链接
+* [Bilibili](https://space.bilibili.com/228834724)
+* [Youtube](https://www.youtube.com/channel/UC9z2DPYJtVI6dFQzt92kaFQ)
+* [Telegram Group](https://t.me/CScriptGroup)
 <!--
 **jiangdi0924/jiangdi0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
