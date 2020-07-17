@@ -14,7 +14,7 @@ Nodejs, PHP, Python, Puppeteer, Vue, Laravel, Scrapy...
 <!--
 **jiangdi0924/jiangdi0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Norton's github stats](https://github-readme-stats.vercel.app/api?username=jiangdi0924)](https://github.com/jiangdi0924/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jiangdi0924&repo=github-readme-stats)](https://github.com/jiangdi0924/github-readme-stats)
 
 Here are some ideas to get you started:
 
