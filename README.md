@@ -5,7 +5,7 @@
   目前有全职工作，还在做一些与自媒体相关的工具的side project。同时也在各个视频平台传播一些编程科普的视频内容。
 
 ### ⚡我的标签
-Nodejs, PHP, Python, Puppeteer, Vue, Laravel, Scrapy...
+Nodejs,Go, PHP, Python, Puppeteer, Vue, Laravel, Scrapy...
 
 ### 🔗相关链接
 * [Bilibili](https://space.bilibili.com/228834724)
