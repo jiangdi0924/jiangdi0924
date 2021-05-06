@@ -16,10 +16,6 @@ Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiangdi0924" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
