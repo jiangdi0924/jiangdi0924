@@ -13,6 +13,17 @@ Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
 * [Bilibili](https://space.bilibili.com/228834724)
 * [Youtube](https://www.youtube.com/channel/UC9z2DPYJtVI6dFQzt92kaFQ)
 * [Telegram Group](https://t.me/CScriptGroup)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiangdi0924" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&show_icons=true&line_height=27" alt="My github stats" />
+</a>  
+
+
 <!--
 **jiangdi0924/jiangdi0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
