@@ -2,9 +2,7 @@
    全职中，考虑远程工作机会。欢迎邮件联系📧
 ### 😊介绍
   Web全栈开发者，曾是一名远程工作者。并且长期抵制996，目前生活在南京。
-
-### 👻我在做哪些事情？
-  目前有全职工作，还在做一些与自媒体相关的工具的side project。同时也在各个视频平台传播一些编程科普的视频内容。
+  
 
 ### ⚡我的标签
 Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
@@ -16,7 +14,7 @@ Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&show_icons=true&line_height=27&count_private=true" alt="My github stats" />
 </a>  
 
 
