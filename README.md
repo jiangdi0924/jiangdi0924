@@ -14,7 +14,8 @@ Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&show_icons=true&line_height=27&count_private=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jiangdi0924&layout=compact&show_icons=true&line_height=27&count_private=true" alt="My github stats" />
+
 </a>  
 
 
