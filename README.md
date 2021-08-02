@@ -1,11 +1,11 @@
 ### 目前的状态
-   全职中，考虑远程工作机会。欢迎邮件联系📧
+   寻找远程工作机会。欢迎邮件联系📧
 ### 😊介绍
-  Web全栈开发者，曾是一名远程工作者。
+  Web全栈开发者
   
 
 ### ⚡我的标签
-Nodejs,Go, PHP, Python,Swift , Puppeteer, Vue, Laravel, Scrapy...
+Nodejs, Go, PHP, Python, Swift, Puppeteer, Vue, Laravel, Scrapy...
 
 ### 🔗相关链接
 * [Bilibili](https://space.bilibili.com/228834724)
