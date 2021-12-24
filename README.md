@@ -1,5 +1,7 @@
-### 目前的状态
-   寻找远程工作机会。欢迎邮件联系📧
+### 作品
+* 速度超快的iOS泛用型客户端[Castflow](https://apps.apple.com/cn/app/id1572179241)
+* 精简取图iOS app（目前支持视频，网页，文件中取图）[鲨鱼取图](https://apps.apple.com/cn/app/id1590075896)
+
 ### 😊介绍
   Web全栈开发者
   
