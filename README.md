@@ -1,6 +1,7 @@
-### 作品
-* [Castflow](https://apps.apple.com/cn/app/id1572179241)速度超快的iOS泛用型播客客户端
-* [鲨鱼取图](https://apps.apple.com/cn/app/id1590075896)一个可以从视频，网页，文件中取图的精巧app
+### 我的iOS作品
+* [Castflow](https://apps.apple.com/app/id1572179241)速度超快的iOS泛用型播客客户端
+* [鲨鱼取图](https://apps.apple.com/app/id1590075896)一个可以从视频，网页，文件中取图的精巧app
+* [RssCube](https://apps.apple.com/app/id1602812291)RSS阅读器iOS app(Fast News Reader iOS app)
 
 ### 😊介绍
   Web全栈开发者
