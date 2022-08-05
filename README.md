@@ -4,7 +4,8 @@
 * [📖RssCube](https://apps.apple.com/app/id1602812291)RSS阅读器iOS app(Fast News Reader iOS app)
 * [🔗Easy links](https://apps.apple.com/us/app/id1610134206)链接分享&数据追踪iOS app
 * [🌵植物猎人](https://apps.apple.com/us/app/id1610134206)植物记录&分享iOS app
-* [⚡️给它电](https://apps.apple.com/app/id1623561852)电子设备充电记录追踪提醒iOS app (🎉新品)
+* [⚡️给它电](https://apps.apple.com/app/id1623561852)电子设备充电记录追踪提醒iOS app
+* [Sudoku Infinite] iOS&Anroid app
 
 ### 😊介绍
   硬地开发者（寻求远程工作机会）
