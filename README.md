@@ -3,7 +3,7 @@
 * [🦈鲨鱼取图](https://apps.apple.com/app/id1590075896)一个可以从视频，网页，文件中取图的精巧app
 * [📖RssCube](https://apps.apple.com/app/id1602812291)RSS阅读器iOS app(Fast News Reader iOS app)
 * [🔗Easy links](https://apps.apple.com/us/app/id1610134206)链接分享&数据追踪iOS app
-* 🌵植物猎人,植物记录&分享app [iOS](https://apps.apple.com/us/app/id1610134206) [Android](https://play.google.com/store/apps/details?id=com.planthunter.app)
+* 🌵植物猎人,植物记录&分享app [⏬iOS](https://apps.apple.com/us/app/id1610134206) ; [⏬Android](https://play.google.com/store/apps/details?id=com.planthunter.app)
 * [⚡️给它电](https://apps.apple.com/app/id1623561852)电子设备充电记录追踪提醒iOS app
 * [Sudoku Infinite] iOS&Anroid app
   
