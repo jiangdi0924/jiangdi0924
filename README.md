@@ -1,5 +1,5 @@
 ### 我的产品
-* [🎵Castflow](https://apps.apple.com/app/id1572179241))速度超快的iOS泛用型播客客户端
+* [🎵Castflow](https://apps.apple.com/app/id1572179241)速度超快的iOS泛用型播客客户端
 
 * [🐱Joyfusion](https://apps.apple.com/app/id1572179241)一款支持本地运行的AI生成图片App
 
