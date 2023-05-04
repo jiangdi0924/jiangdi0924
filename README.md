@@ -1,8 +1,8 @@
 ### 我的产品
 * [🎵Castflow](https://apps.apple.com/app/id1572179241)速度超快的iOS泛用型播客客户端
 
-* [🐱Joyfusion](https://apps.apple.com/app/id1572179241)一款本地运行的AI绘画App，支持macOS，iPadOS，iOS
-* [JoyChat]([https://apps.apple.com/app/id1572179241](https://apps.apple.com/app/joychat-pocket-ai-chat/id6446176892) 口袋ChatGPT客户端，无账号也可以使用。
+* [😺Joyfusion](https://apps.apple.com/app/id1572179241)一款本地运行的AI绘画App，支持macOS，iPadOS，iOS
+* [😸JoyChat](https://apps.apple.com/app/joychat-pocket-ai-chat/id6446176892) 口袋ChatGPT客户端，无账号也可以使用。
 
 * [🦈鲨鱼取图](https://apps.apple.com/app/id1590075896)一个可以从视频，网页，文件中取图的精巧app
 * [📖RssCube](https://apps.apple.com/app/id1602812291)RSS阅读器iOS app(Fast News Reader iOS app)
