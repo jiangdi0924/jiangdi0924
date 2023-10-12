@@ -1,22 +1,17 @@
-### 我的产品
-* [🎵Castflow](https://apps.apple.com/app/id1572179241)速度超快的iOS泛用型播客客户端
+### Apps
 
-* [😺JoyFusion](https://apps.apple.com/app/id1572179241)一款本地运行的AI绘画App，支持macOS，iPadOS，iOS
-* [😸JoyChat](https://apps.apple.com/app/joychat-pocket-ai-chat/id6446176892) 口袋ChatGPT客户端，无账号也可以使用。
+* [😺JoyFusion](https://apps.apple.com/app/id1572179241) - A locally-run AI drawing App, compatible with macOS, iPadOS, iOS.
+* [🎵Castflow](https://apps.apple.com/app/id1572179241) - Speedy iOS universal podcast iOS app
+* [😸JoyChat](https://apps.apple.com/app/joychat-pocket-ai-chat/id6446176892) - Pocket ChatGPT client, no account required.
+* 🌵PlantHunter - Plant recording & sharing app [⏬iOS](https://apps.apple.com/us/app/id1610134206) ; [⏬Android](https://play.google.com/store/apps/details?id=com.planthunter.app)
+* [🦈Shark Shot](https://apps.apple.com/app/id1590075896) - N in 1 Grab Picture iOS App.
 
-* [🦈鲨鱼取图](https://apps.apple.com/app/id1590075896)一个可以从视频，网页，文件中取图的精巧app
-* [📖RssCube](https://apps.apple.com/app/id1602812291)RSS阅读器iOS app(Fast News Reader iOS app)
-* 🌵植物猎人,植物记录&分享app [⏬iOS](https://apps.apple.com/us/app/id1610134206) ; [⏬Android](https://play.google.com/store/apps/details?id=com.planthunter.app)
-* [Sudoku Infinite] iOS&Anroid app
-  
-
-### ⚡我的标签
+### ⚡Tags
 Nodejs, Go, PHP, Python, Swift, Kotlin, Puppeteer, Vue, Laravel, SwiftUI，Jetpack compose...
 
-### 🔗相关链接
+### 🔗Links
 * [Bilibili](https://space.bilibili.com/228834724)
 * [Youtube](https://www.youtube.com/channel/UC9z2DPYJtVI6dFQzt92kaFQ)
-* [Telegram Group](https://t.me/CScriptGroup)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
