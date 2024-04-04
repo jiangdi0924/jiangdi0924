@@ -1,5 +1,4 @@
 
-@@ -1,17 +1,3 @@
 ### Apps	
 * [👩TalkAgent](https://apps.apple.com/app/id6472412023) - An thought flow driven voice english chat app.	
 * [😺JoyFusion](https://apps.apple.com/app/id1572179241) - A locally-run AI drawing App, compatible with macOS, iPadOS, iOS.	
