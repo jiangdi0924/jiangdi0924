@@ -1,6 +1,6 @@
 
 ### Apps	
-* [🌊WaveCam](https://apps.apple.com/us/app/wavecam-digital-portrait/id6478093469) - Digital Portrait.	
+* 🌊WaveCam - Digital Portrait.	  [⏬iOS](https://apps.apple.com/us/app/wavecam-digital-portrait/id6478093469) ; [⏬Android](https://play.google.com/store/apps/details?id=com.wavecam.app)	
 * [👩TalkAgent](https://apps.apple.com/app/id6472412023) - An thought flow driven voice english chat app.	
 * [😺JoyFusion](https://apps.apple.com/app/id1572179241) - A locally-run AI drawing App, compatible with macOS, iPadOS, iOS.	
 * [🎵Castflow](https://apps.apple.com/app/id1572179241) - Speedy iOS universal podcast iOS app	
