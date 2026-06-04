@@ -6,27 +6,25 @@
 
 ## 产品列表
 
-- <img src="assets/app-icons/ranni.png" width="32" alt="Ranni 图标"> **Ranni - 你的掌上AI 智能体**<br>iOS · 发布日期：2026-05-19 · [链接](https://apps.apple.com/app/id6766916724)
-- <img src="assets/app-icons/peakpoo.png" width="32" alt="Peakpoo 图标"> **Peakpoo**<br>iOS · 发布日期：2026-04-27 · [链接](https://apps.apple.com/app/id6763457414)
-- <img src="assets/app-icons/readcut.png" width="32" alt="ReadCut 图标"> **ReadCut - Edit Audio Like Text**<br>macOS · 发布日期：2026-04-07 · [链接](https://apps.apple.com/app/id6761426535)
-- <img src="assets/app-icons/numbbrain.png" width="32" alt="NumbBrain 图标"> **NumbBrain - 控制屏幕时间**<br>iOS · 发布日期：2025-10-19 · [链接](https://apps.apple.com/app/id6751564003)
-- <img src="assets/app-icons/timeland.png" width="32" alt="旅行日志图标"> **旅行日志 - 个人旅行记录**<br>iOS · 发布日期：2025-10-06 · [链接](https://apps.apple.com/app/id6752765624)
-- <img src="assets/app-icons/lorqa.png" width="32" alt="Lorqa 图标"> **Lorqa - 本地AI翻译**<br>macOS · 发布日期：2025-08-14 · [链接](https://apps.apple.com/app/id6749881415)
-- <img src="assets/app-icons/langry.png" width="32" alt="Langry 图标"> **Langry - 用外语写日记**<br>iOS, macOS · 发布日期：2025-02-17 · [链接](https://apps.apple.com/app/id6741383609)
-- <img src="assets/app-icons/homtodo.png" width="32" alt="HomTodo 图标"> **HomTodo - 轻松规划家中大小事务**<br>iOS · 发布日期：2024-12-18 · [链接](https://apps.apple.com/app/id6739244386)
-- <img src="assets/app-icons/joyfish.png" width="32" alt="鱼之乐图标"> **鱼之乐 - 小鱼成长记录与追踪**<br>iOS · 发布日期：2024-10-15 · [链接](https://apps.apple.com/app/id6736854347)
-- <img src="assets/app-icons/dorma.png" width="32" alt="Dorma 图标"> **Dorma - 睡眠记录和归因**<br>iOS · 发布日期：2024-09-04 · [链接](https://apps.apple.com/app/id6670309278)
-- <img src="assets/app-icons/wavecam.png" width="32" alt="映画相机图标"> **映画相机- 人物肖像生成**<br>iOS · 发布日期：2024-03-05 · [链接](https://apps.apple.com/app/id6478093469)
-- **TalkAgent - 多语言语音对话**<br>iOS · 发布日期：2024-01-03 · 已取消维护
-- **PicRefine - 图片着色和超分辨率**<br>iOS · 发布日期：2023-12-14 · 已取消维护
-- <img src="assets/app-icons/pocketlm.png" width="32" alt="PocketLM 图标"> **PocketLM - 本地AI模型客户端**<br>iOS, macOS · 发布日期：2023-03-14 · [链接](https://apps.apple.com/app/id6446176892)
-- <img src="assets/app-icons/joyfusion.png" width="32" alt="JoyFusion 图标"> **JoyFusion - AI绘画生成创意**<br>iOS, macOS · 发布日期：2022-12-29 · [链接](https://apps.apple.com/app/id1661652021)
-- **包裹小子**<br>iOS · 发布日期：2022-09-30 · 已取消维护
-- **Fill Cube - Block Puzzle**<br>iOS · 发布日期：2022-08-17 · 已取消维护
-- **Sudoku Infinite Challenge**<br>iOS · 发布日期：2022-07-27 · 已取消维护
-- <img src="assets/app-icons/recharge-me.png" width="32" alt="给它电图标"> **给它电**<br>iOS · 发布日期：2022-06-09 · [链接](https://apps.apple.com/app/id1623561852)
-- **Easy Links - URL链接分享数据追踪**<br>iOS · 发布日期：2022-03-18 · 已取消维护
-- <img src="assets/app-icons/planthunter.png" width="32" alt="植物猎人图标"> **植物猎人 - 植物成长记录与追踪**<br>iOS · 发布日期：2022-03-09 · [链接](https://apps.apple.com/app/id1612833329)
-- <img src="assets/app-icons/rsscube.png" width="32" alt="RssCube 图标"> **RssCube - RSS阅读器**<br>iOS · 发布日期：2022-01-03 · [链接](https://apps.apple.com/app/id1602812291)
-- <img src="assets/app-icons/shark-shot.png" width="32" alt="鲨鱼取图图标"> **鲨鱼取图-选出好照片**<br>iOS · 发布日期：2021-10-24 · [链接](https://apps.apple.com/app/id1590075896)
-- <img src="assets/app-icons/castflow.png" width="32" alt="Castflow 图标"> **Castflow - 泛用型播客客户端**<br>iOS, macOS · 发布日期：2021-08-21 · [链接](https://apps.apple.com/app/id1572179241)
+- <img src="assets/app-icons/ranni.png" width="32" alt="Ranni 图标"> **Ranni - 你的掌上AI 智能体** · iOS · 发布日期：2026-05-19 · [链接](https://apps.apple.com/app/id6766916724)
+- <img src="assets/app-icons/peakpoo.png" width="32" alt="Peakpoo 图标"> **Peakpoo** · iOS · 发布日期：2026-04-27 · [链接](https://apps.apple.com/app/id6763457414)
+- <img src="assets/app-icons/readcut.png" width="32" alt="ReadCut 图标"> **ReadCut - Edit Audio Like Text** · macOS · 发布日期：2026-04-07 · [链接](https://apps.apple.com/app/id6761426535)
+- <img src="assets/app-icons/numbbrain.png" width="32" alt="NumbBrain 图标"> **NumbBrain - 控制屏幕时间** · iOS · 发布日期：2025-10-19 · [链接](https://apps.apple.com/app/id6751564003)
+- <img src="assets/app-icons/timeland.png" width="32" alt="旅行日志图标"> **旅行日志 - 个人旅行记录** · iOS · 发布日期：2025-10-06 · [链接](https://apps.apple.com/app/id6752765624)
+- <img src="assets/app-icons/lorqa.png" width="32" alt="Lorqa 图标"> **Lorqa - 本地AI翻译** · macOS · 发布日期：2025-08-14 · [链接](https://apps.apple.com/app/id6749881415)
+- <img src="assets/app-icons/langry.png" width="32" alt="Langry 图标"> **Langry - 用外语写日记** · iOS, macOS · 发布日期：2025-02-17 · [链接](https://apps.apple.com/app/id6741383609)
+- <img src="assets/app-icons/homtodo.png" width="32" alt="HomTodo 图标"> **HomTodo - 轻松规划家中大小事务** · iOS · 发布日期：2024-12-18 · [链接](https://apps.apple.com/app/id6739244386)
+- <img src="assets/app-icons/joyfish.png" width="32" alt="鱼之乐图标"> **鱼之乐 - 小鱼成长记录与追踪** · iOS · 发布日期：2024-10-15 · [链接](https://apps.apple.com/app/id6736854347)
+- <img src="assets/app-icons/dorma.png" width="32" alt="Dorma 图标"> **Dorma - 睡眠记录和归因** · iOS · 发布日期：2024-09-04 · [链接](https://apps.apple.com/app/id6670309278)
+- <img src="assets/app-icons/wavecam.png" width="32" alt="映画相机图标"> **映画相机- 人物肖像生成** · iOS · 发布日期：2024-03-05 · [链接](https://apps.apple.com/app/id6478093469)
+- **TalkAgent - 多语言语音对话** · iOS · 发布日期：2024-01-03 · 已取消维护
+- **PicRefine - 图片着色和超分辨率** · iOS · 发布日期：2023-12-14 · 已取消维护
+- <img src="assets/app-icons/pocketlm.png" width="32" alt="PocketLM 图标"> **PocketLM - 本地AI模型客户端** · iOS, macOS · 发布日期：2023-03-14 · [链接](https://apps.apple.com/app/id6446176892)
+- <img src="assets/app-icons/joyfusion.png" width="32" alt="JoyFusion 图标"> **JoyFusion - AI绘画生成创意** · iOS, macOS · 发布日期：2022-12-29 · [链接](https://apps.apple.com/app/id1661652021)
+- **包裹小子** · iOS · 发布日期：2022-09-30 · 已取消维护
+- <img src="assets/app-icons/recharge-me.png" width="32" alt="给它电图标"> **给它电** · iOS · 发布日期：2022-06-09 · [链接](https://apps.apple.com/app/id1623561852)
+- **Easy Links - URL链接分享数据追踪** · iOS · 发布日期：2022-03-18 · 已取消维护
+- <img src="assets/app-icons/planthunter.png" width="32" alt="植物猎人图标"> **植物猎人 - 植物成长记录与追踪** · iOS · 发布日期：2022-03-09 · [链接](https://apps.apple.com/app/id1612833329)
+- <img src="assets/app-icons/rsscube.png" width="32" alt="RssCube 图标"> **RssCube - RSS阅读器** · iOS · 发布日期：2022-01-03 · [链接](https://apps.apple.com/app/id1602812291)
+- <img src="assets/app-icons/shark-shot.png" width="32" alt="鲨鱼取图图标"> **鲨鱼取图-选出好照片** · iOS · 发布日期：2021-10-24 · [链接](https://apps.apple.com/app/id1590075896)
+- <img src="assets/app-icons/castflow.png" width="32" alt="Castflow 图标"> **Castflow - 泛用型播客客户端** · iOS, macOS · 发布日期：2021-08-21 · [链接](https://apps.apple.com/app/id1572179241)
